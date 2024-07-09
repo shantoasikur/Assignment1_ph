@@ -8,6 +8,8 @@
   }
   body{
     background-image: url(images/Hero-bg.png);
+    background-size:contain;
+    background-repeat: no-repeat;
 
   }
   main{
@@ -41,3 +43,64 @@
    border-radius: 8px;
 
   }
+  .hardy4 h1{
+    color:#0D1321 ;
+    font-size: 32px;
+    font-weight: 800;
+
+  }
+  .hardy4 p{
+    color:#0D1321 ;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .hardy5{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+  }
+  #hardy6{
+    flex-direction: row-reverse;
+
+  }
+  #hardy7{
+    flex-direction: row-reverse;
+  }
+  .hardy5 h1{
+    color:#0D1321 ;
+    font-size: 24px;
+    font-weight: 400;
+  }
+  .hardy5 p{
+    color: #0D1321;
+    font-size: 16px;
+  }
+  .hardy8{
+    background-color:white;
+    margin: 102px 248px 90px 52px;
+  }
+  .hardy9 button{
+    width: 150px;
+    height: 48px;
+    padding: 12px 20px 12px 20px;
+    color: rgb(13, 19, 33);
+    border: 1px solid rgb(13, 19, 33);
+
+  }
+  .hardy10 button{
+    width: 150px;
+    height: 48px;
+    padding: 12px 20px 12px 20px;
+    color: rgb(13, 19, 33);
+    border: 1px solid rgb(13, 19, 33);
+
+  }
+  .hardy11 button{
+    width: 150px;
+    height: 48px;
+    padding: 12px 20px 12px 20px;
+    color: rgb(13, 19, 33);
+    border: 1px solid rgb(13, 19, 33);
+
+  }
+  
